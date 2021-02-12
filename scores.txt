@@ -1,0 +1,10 @@
+John Doe
+42
+Steve Nash
+70
+Lebron James
+2
+Michael Jordan 
+69
+Wilt the Stilt
+100
