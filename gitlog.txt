@@ -1,0 +1,36 @@
+commit 04b0cdcf2740e7df8b0376e21bf7a56fe4b9af7a
+Author: unknown <markshonbeck@mymail.mines.edu>
+Date:   Wed Feb 17 15:36:19 2021 -0700
+
+    added comments and README
+
+commit d3c9bc07fa15893f2cca8775da55c341a936f739
+Merge: 0b1dc0c ef60d0b
+Author: unknown <markshonbeck@mymail.mines.edu>
+Date:   Wed Feb 17 15:25:02 2021 -0700
+
+    Merge https://github.com/JoshHatchet/FileIO
+
+commit ef60d0b8f7befbb1404e626b77c6b183a75a63fd
+Author: JoshHatchet <joshbordick@gmail.com>
+Date:   Wed Feb 17 15:24:22 2021 -0700
+
+    added new files and fixed code
+
+commit 0b1dc0c0e517522fdb44fee1ef44bd9fb0eed43d
+Author: JoshHatchet <71793900+JoshHatchet@users.noreply.github.com>
+Date:   Thu Feb 11 18:08:28 2021 -0700
+
+    Update README.md
+
+commit 8e53a5fb3073d9770f75f2156eec8dfc348c6923
+Author: JoshHatchet <joshbordick@gmail.com>
+Date:   Thu Feb 11 18:06:43 2021 -0700
+
+    Initial Commit with first part of program done
+
+commit f3e8a1341adf0123daa919ecc2ff5ac003c13f6c
+Author: JoshHatchet <71793900+JoshHatchet@users.noreply.github.com>
+Date:   Thu Feb 11 18:03:05 2021 -0700
+
+    Initial commit
